@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Bundler config
+.bundle/
+
+# MacOS files
+.DS_Store
+
+# Node modules for Gulp
+node_modules/ 
