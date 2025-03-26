@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Harvard GSAS Polish Student Association - Test Page</title>
+</head>
+<body>
+    <h1>Harvard GSAS Polish Student Association</h1>
+    <p>This is a test page to verify GitHub Pages deployment.</p>
+    <p>The actual site is being built with Jekyll.</p>
+</body>
+</html> 
