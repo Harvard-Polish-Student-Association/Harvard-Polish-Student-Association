@@ -14,10 +14,10 @@ plugins:
   - jekyll-seo-tag
 
 # User settings
-username: Harvard GSAS Polish Student Association
+username: Harvard GSAS Polish
 user_description: Connecting Polish graduate students and scholars at Harvard University. We organize cultural events, academic discussions, and social gatherings to promote Polish culture and create a supportive community for Polish students at Harvard.
-user_title: Harvard GSAS Polish Student Association
-email: harvardpolishclub@gmail.com
+user_title: Student Association
+email: polish@gsas.harvard.edu
 github_username: Harvard-Polish-Student-Association
 
 # Google-analytics
