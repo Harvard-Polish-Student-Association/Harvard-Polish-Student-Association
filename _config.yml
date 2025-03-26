@@ -3,31 +3,26 @@ title: Harvard GSAS Polish Student Association
 description: Official website of the Harvard GSAS Polish Student Association
 baseurl: "/Harvard-Polish-Student-Association" # the subpath of your site, e.g. /blog
 url: "https://harvard-polish-student-association.github.io" # the base hostname & protocol for your site
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# Build settings
+remote_theme: nrandecker/particle
+markdown: kramdown
+safe: true
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # User settings
 username: Harvard GSAS Polish Student Association
 user_description: Connecting Polish graduate students and scholars at Harvard University. We organize cultural events, academic discussions, and social gatherings to promote Polish culture and create a supportive community for Polish students at Harvard.
 user_title: Harvard GSAS Polish Student Association
-email: harvardpolishclub@gmail.com
+email: polish@gsas.harvard.edu
 twitter_username: harvardgsaspolish
 github_username: Harvard-Polish-Student-Association
-# gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
   id: ""
-
-# Build settings
-markdown: kramdown
-safe: true
-lsi: false
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor', '.github', 'Gemfile', 'Gemfile.lock']

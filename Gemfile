@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use GitHub Pages
-gem "github-pages", "~> 227"
+gem "github-pages", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
