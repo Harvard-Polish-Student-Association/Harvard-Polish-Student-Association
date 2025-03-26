@@ -1,0 +1,18 @@
+/* Custom styles */
+
+.email-link {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: $sec;
+  color: white !important;
+  border-radius: 3px;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  text-align: center;
+  margin: 0 auto;
+  
+  &:hover {
+    background-color: darken($sec, 10%);
+    transform: translateY(-2px);
+  }
+} 
