@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+# Use a specific Jekyll version that works with GitHub Pages
+gem "jekyll", "~> 3.9.0"
+gem "github-pages", "~> 227"
 gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
