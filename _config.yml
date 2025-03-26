@@ -1,7 +1,7 @@
 # Site settings
 title: Harvard GSAS Polish Student Association
 description: Official website of the Harvard GSAS Polish Student Association
-baseurl: "/Harvard-Polish-Student-Association" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://harvard-polish-student-association.github.io" # the base hostname & protocol for your site
 
 # Build settings
